@@ -1,8 +1,8 @@
 # The WP Community Collective Initiative: Incentivizing DEIB
 
-This repository manages the work of The WP Community Collective’s "Incentivizing DEIB" initiative. This initiative supports the development and implementation of community-driven practices that recognize, value, and sustain Diversity, Equity, Inclusion, and Belonging (DEIB) across the open source ecosystem.
+This repository manages the work of The WP Community Collective’s "Incentivizing DEIB" initiative. This initiative supports the individuals and groups that advocate for and advance Diversity, Equity, Inclusion, and Belonging (DEIB) practices across the open source ecosystem.
 
-Through this initiative, The WPCC seeks to foster more inclusive, equitable participation in open source by supporting incentive structures, campaign efforts, and community collaborations.
+Through this initiative, The WPCC seeks to foster the adoption of DEIB practices and processes across the open source ecosystem.
 
 ---
 
